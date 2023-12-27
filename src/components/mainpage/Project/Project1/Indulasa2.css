@@ -1,0 +1,165 @@
+body{
+    background-color: #141414;
+}
+.int00{
+    width: 100%;
+    height: 100vh;
+    background-color: #141414;
+    /* position: fixed; */
+}
+.int000{
+    padding: 2%;
+}
+.int111{
+    /* border: 1px solid red; */
+}
+.int44{
+    /* border: 1px solid rgb(0, 255, 8); */
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    margin-top: -3%;
+    /* height: 70vh; */
+}
+.int444{
+    /* border: 1px solid rgb(47, 0, 255); */
+   width: 85%;
+   /* height: 100%; */
+
+}
+
+.service1{
+    /* border: 1px solid red; */
+    height: 5vh;
+    margin-top: 4%;
+}
+.service11{
+    color: #FD6A18;
+    font-family:  hellix4;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; 
+    letter-spacing: 0.4px;
+    text-transform: capitalize;
+}
+
+
+.kojhugT{
+    height: 2vh;
+    background-color: #141414;
+    border: 0.1px solid #141414;
+}
+.rectangle70{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid red; */
+    margin-top: 3%;
+ }
+ .rectangle70a{
+   background-color: #141414;
+   width: 100%; 
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   
+ }
+ .rectangle75 img{ 
+   width: 100%;
+  }
+ .rectangle76 img{
+   width: 100%;
+ }
+ .rectangle77 img{
+   width: 100%;
+  }
+
+
+
+  .liknjnnkT{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    background-color: #141414;
+    /* border: 1px solid red; */
+  }
+  .gfcgfcT{
+    width: 50%;
+    /* height: 800px; */
+    background-color: #141414;
+  }
+  .gfcgfcT img{
+      width: 100%;
+      height: 100%;
+  }
+
+
+  .fdghsfc{
+    width: 100%;
+    background-color: #141414;
+
+}
+
+.edxcdfc{
+    width: 100%;
+    height: 100%;
+    background-color: #141414;
+
+}
+.edxcdfc img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.top00{
+     /* border: 1px solid red; */
+     margin-top: 3%;
+     width: 90%;
+    
+}
+.top000{
+    /* height: 30vh; */
+    /* border: 1px solid blue; */
+}
+#top1{
+    color: #F1F1F1;
+    font-family: hellix3; 
+        font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; 
+    letter-spacing: 0.4px;
+    text-transform: capitalize;
+}
+#top2{
+    color: #F1F1F1;
+    font-family:  hellix4;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+}
+#top2 span{
+    color: #F1F1F1;
+    font-family: hellix2;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 24px; /* 120% */
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+}
+
+
+@media(max-width: 1000px){
+    .int00{
+      display:none;
+    }
+    
+  }

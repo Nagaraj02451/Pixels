@@ -1,0 +1,14 @@
+.westlink a{
+    color: #FD6A18;
+    font-family: hellix2; 
+   font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; 
+    letter-spacing: 0.2px;
+    text-decoration-line: underline;
+ 
+}
+.westlink{
+    margin-top: 3%;
+}

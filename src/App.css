@@ -1,0 +1,20 @@
+@font-face{
+  font-family: hellix1;
+  src:url( "../public/Hellix/Hellix/Hellix-Light.woff");
+}
+@font-face{
+  font-family: hellix2;    /*600*/
+  src:url( "../public/Hellix/Hellix/Hellix-SemiBold.woff");
+}
+@font-face{
+  font-family: hellix3;      /*700*/
+  src:url( "../public/Hellix/Hellix/Hellix-Bold.woff");
+}
+@font-face{
+  font-family: hellix4;      /*400 */
+  src:url( "../public/Hellix/Hellix/Hellix-Medium.woff2");
+}
+
+a{
+  text-decoration: none;
+}
